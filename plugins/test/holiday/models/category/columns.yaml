@@ -1,0 +1,13 @@
+columns:
+    category_id:
+        label: 'Category Id'
+        type: number
+        searchable: true
+        invisible: true
+        sortable: true
+    category_name:
+        label: 'Category Name'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true

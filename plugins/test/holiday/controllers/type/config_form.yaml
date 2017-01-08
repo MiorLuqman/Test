@@ -1,0 +1,10 @@
+name: Type
+form: $/test/holiday/models/type/fields.yaml
+modelClass: Test\Holiday\Models\Type
+defaultRedirect: test/holiday/type
+create:
+    redirect: 'test/holiday/type/update/:id'
+    redirectClose: test/holiday/type
+update:
+    redirect: test/holiday/type
+    redirectClose: test/holiday/type

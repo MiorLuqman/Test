@@ -1,0 +1,46 @@
+columns:
+    ty_id:
+        label: 'Type Id'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true
+    hol_name:
+        label: 'Holiday Name'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true
+    start_date:
+        label: 'Start Date'
+        type: date
+        searchable: true
+        invisible: true
+        sortable: true
+    end_date:
+        label: 'End Date'
+        type: date
+        searchable: true
+        invisible: true
+        sortable: true
+    start_day:
+        label: 'Start Day'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true
+    end_day:
+        label: 'End Day'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true
+    cat_id:
+        label: 'Category Id'
+        type: text
+        searchable: true
+        invisible: true
+        sortable: true
+    hol_desc:
+        label: Description
+        type: text

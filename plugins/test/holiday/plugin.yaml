@@ -1,0 +1,24 @@
+plugin:
+    name: 'test.holiday::lang.plugin.name'
+    description: 'test.holiday::lang.plugin.description'
+    author: Test
+    icon: oc-icon-adjust
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Holiday
+        url: test/holiday/details
+        icon: icon-life-ring
+        sideMenu:
+            side-menu-item2:
+                label: Details
+                url: test/holiday/details
+                icon: icon-slideshare
+            side-menu-item3:
+                label: Category
+                url: test/holiday/category
+                icon: icon-sitemap
+            side-menu-item:
+                label: Type
+                url: test/holiday/type
+                icon: icon-simplybuilt

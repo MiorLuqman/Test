@@ -1,0 +1,16 @@
+columns:
+    type:
+        label: 'Type  Name'
+        type: text
+        searchable: true
+        sortable: true
+    type_id:
+        label: 'Type Id'
+        type: number
+        searchable: true
+        sortable: true
+    cat_id:
+        label: 'Category Id'
+        type: number
+        searchable: true
+        sortable: true

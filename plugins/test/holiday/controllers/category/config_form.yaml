@@ -1,0 +1,10 @@
+name: Category
+form: $/test/holiday/models/category/fields.yaml
+modelClass: Test\Holiday\Models\Category
+defaultRedirect: test/holiday/category
+create:
+    redirect: 'test/holiday/category/update/:id'
+    redirectClose: test/holiday/category
+update:
+    redirect: test/holiday/category
+    redirectClose: test/holiday/category

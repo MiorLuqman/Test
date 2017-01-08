@@ -1,0 +1,4 @@
+title: Category2
+modelClass: Test\Holiday\Models\Category
+toolbar:
+    buttons: reorder_toolbar

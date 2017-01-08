@@ -1,0 +1,10 @@
+name: Details
+form: $/test/holiday/models/details/fields.yaml
+modelClass: Test\Holiday\Models\Details
+defaultRedirect: test/holiday/details
+create:
+    redirect: 'test/holiday/details/update/:id'
+    redirectClose: test/holiday/details
+update:
+    redirect: test/holiday/details
+    redirectClose: test/holiday/details

@@ -1,0 +1,4 @@
+title: Details
+modelClass: Test\Holiday\Models\Details
+toolbar:
+    buttons: reorder_toolbar

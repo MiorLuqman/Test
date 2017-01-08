@@ -1,0 +1,11 @@
+list: $/test/holiday/models/details/columns.yaml
+modelClass: Test\Holiday\Models\Details
+title: Details
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'
+recordUrl: 'test/holiday/details/update/:id'

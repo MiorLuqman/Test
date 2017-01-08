@@ -1,0 +1,59 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table test_holiday_details'
+    - builder_table_create_test_holiday_details.php
+1.0.3:
+    - 'Created table test_holiday_type'
+    - builder_table_create_test_holiday_type.php
+1.0.4:
+    - 'Updated table test_holiday_type'
+    - builder_table_update_test_holiday_type.php
+1.0.5:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details.php
+1.0.6:
+    - 'Created table test_holiday_category'
+    - builder_table_create_test_holiday_category.php
+1.0.7:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_2.php
+1.0.8:
+    - 'Updated table test_holiday_type'
+    - builder_table_update_test_holiday_type_2.php
+1.0.9:
+    - 'Updated table test_holiday_type'
+    - builder_table_update_test_holiday_type_3.php
+1.0.10:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_3.php
+1.0.11:
+    - 'Updated table test_holiday_category'
+    - builder_table_update_test_holiday_category.php
+1.0.12:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_4.php
+1.0.13:
+    - 'Updated table test_holiday_category'
+    - builder_table_update_test_holiday_category_2.php
+1.0.14:
+    - 'Updated table test_holiday_category'
+    - builder_table_update_test_holiday_category_3.php
+1.0.15:
+    - 'Updated table test_holiday_type'
+    - builder_table_update_test_holiday_type_4.php
+1.0.16:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_5.php
+1.0.17:
+    - 'Drop table test_holiday_type'
+    - builder_table_delete_test_holiday_type.php
+1.0.18:
+    - 'Created table test_holiday_type'
+    - builder_table_create_test_holiday_type_2.php
+1.0.19:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_6.php
+1.0.20:
+    - 'Updated table test_holiday_details'
+    - builder_table_update_test_holiday_details_7.php
